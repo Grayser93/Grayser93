@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Sergey 👋
+I am learning Java stack.
+
+
 
 <!--
 **Grayser93/Grayser93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
