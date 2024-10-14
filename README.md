@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi, I'm Sergey 👋
 
+Senior Software Engineer with more than 7 years of commercial experience. I have excellent knowledge in development on ABAP.
+
+I am learning Java stack.
+
+[![Grayser93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grayser93&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Grayser93/Grayser93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
