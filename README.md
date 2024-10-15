@@ -5,6 +5,14 @@ Senior Software Engineer with more than 7 years of commercial experience. I have
 I am learning Java stack.
 
 [![Grayser93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grayser93&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Grayser93&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grayser93&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+![](https://visitor-badge.glitch.me/badge?page_id=Grayser93)
+
+
 <!--
 **Grayser93/Grayser93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
