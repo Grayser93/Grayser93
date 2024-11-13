@@ -1,6 +1,4 @@
-## Hi, I'm Sergey 👋
-I am learning Java stack.
-
+## Hey! I'm Sergey 👋🏼
 
 
 <!--
